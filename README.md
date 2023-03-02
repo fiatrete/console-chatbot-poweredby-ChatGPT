@@ -1,6 +1,8 @@
 # Chatbot-with-GPT3.5Turbo-API
 A simple Python chatbot implemented with official OpenAI API using model `gpt-3.5-turbo`. ChatGPT is powered by `gpt-3.5-turbo`, OpenAI’s most advanced language model.
 
+You can consider it as the code way of using ChatGPT, and demo for OpenAI API.
+
 It's much fun to find that:
 
 1. Using the API to access ChatGPT is **much faster** than directly using the web version of ChatGPT.
