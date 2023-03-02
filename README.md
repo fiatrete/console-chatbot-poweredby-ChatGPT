@@ -6,7 +6,7 @@ You can consider it as the code way of using ChatGPT, and demo for OpenAI API.
 It's much fun to find that:
 
 1. Using the API to access ChatGPT is **much faster** than directly using the web version of ChatGPT.
-2. Replies from ChatGPT are **delivered all at once**, rather than one character at a time.
+2. Replies from ChatGPT are **delivered all at once**, rather than one character at a time(web version).
 3. Even in restricted areas(like China mainland), **direct access** is possible without the need for a VPN.
 
 ## How to use
