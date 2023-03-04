@@ -14,6 +14,9 @@ messages=[
 
 while True:
     user_input = input("Q: ")
+    if user_input == 'q':
+        break
+    
     log.info('Q:'+user_input)
     item =  {"role": "user", "content": user_input}
     messages.append(item)
