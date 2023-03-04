@@ -13,8 +13,8 @@ It's much fun to find that:
 1.clone code from github 
 
 ```bash
-git clone git@github.com:fiatrete/Chatbot-with-GPT3.5Turbo-API.git
-cd Chatbot-with-GPT3.5Turbo-API
+git clone git@github.com:fiatrete/console-chatbot-poweredby-ChatGPT.git
+cd console-chatbot-poweredby-ChatGPT
 ```
 
 2.setup and activate venv
