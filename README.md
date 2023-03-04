@@ -7,7 +7,7 @@ It's much fun to find that:
 
 1. Using the API to access ChatGPT is **much faster** than directly using the web version of ChatGPT.
 2. Replies from ChatGPT are **delivered all at once**(code version), rather than one character at a time(web version).
-3. Even in restricted areas(like China mainland), **direct access** is possible without the need for a VPN.
+3. Simple is good, I have shifted most of my conversations with ChatGPT to this small bot.
 
 ## How to use
 1.clone code from github 
